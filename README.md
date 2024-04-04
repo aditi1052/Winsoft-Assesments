@@ -1,2 +1,2 @@
-# Winsoft-Assesments
-Assesments given by Winsoft Technologies
+# Winsoft-Assignments
+Assignments given by Winsoft Technologies
